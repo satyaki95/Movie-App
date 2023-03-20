@@ -1,0 +1,8 @@
+export const SEARCH = "SEARCH"
+export const ADD_TO_FAVORITES = "ADD_TO_FAVORITES"
+export const DELETE_FROM_FAVORITES = "DELETE_FROM_FAVORITES"
+export const LOADING = "LOADING"
+export const MOVIE_LIST = "MOVIE_LIST"
+export const MODAL_ITEM = "MODAL_ITEM"
+export const MPAGE = "MPAGE"
+export const FPAGE = "FPAGE"
